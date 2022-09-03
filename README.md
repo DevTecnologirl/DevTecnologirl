@@ -7,12 +7,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtecnologirl&theme=default" alt="devtecnologirl" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devtecnologirl&label=Profile%20views&color=8c04fb&style=flat-square" alt="devtecnologirl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devtecnologirl&label=Profile%20views&color=8c04fb&style=flat-square" alt="devtecnologirl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtecnologirl" alt="devtecnologirl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtecnologirl" alt="devtecnologirl" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   
   
   <div> 
@@ -21,7 +21,7 @@
   <a href = "mailto:tecnologirlinformatica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilly-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19911157/camilly-duarte" target="_blank"><img src="https://img.shields.io/badge/-stackoverflow-%230077B5?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19911157/camilly-duarte" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-%230077B5?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank" alt="https://stackoverflow.com/users/19911157/camilly-duarte" height="30"></a>
   
   
   
