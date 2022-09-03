@@ -16,18 +16,15 @@
   
   
   <div> 
+    
+<a href="https://linkedin.com/in/camillyduarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camillyduarte" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19911157/camilly-duarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19911157/camilly-duarte" height="30" width="40" /></a>
+    
+    
   <a href="https://www.instagram.com/tecnologirl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://mobile.twitter.com/Camilly88631909" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:tecnologirlinformatica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilly-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19911157/camilly-duarte" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-%230077B5?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank" alt="https://stackoverflow.com/users/19911157/camilly-duarte" height="30"></a>
-  
-  
-  
-  
-<a href="https://linkedin.com/in/camillyduarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camillyduarte" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19911157/camilly-duarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19911157/camilly-duarte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
