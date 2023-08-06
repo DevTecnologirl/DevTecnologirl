@@ -14,8 +14,7 @@
    <img align="center" alt="Rafa-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
      <img align="center" alt="Rafa-MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     
-    
-![Snake animation](https://github.com/DevTecnologirl/DevTecnologirl/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/DevTecnologirl/DevTecnologirl/blob/output/github-contribution-grid-snake.svg)
   
   ##
   ### Contatos:
