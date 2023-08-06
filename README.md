@@ -16,7 +16,7 @@
     
    ![Snake animation](https://github.com/DevTecnologirl/DevTecnologirl/blob/output/github-contribution-grid-snake.svg)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DevTecnologirl=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?DevTecnologirl=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   
   ##
   ### Contatos:
