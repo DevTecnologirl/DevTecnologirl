@@ -11,6 +11,7 @@
    <img align="center" alt="Rafa-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
      <img align="center" alt="Rafa-MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       <img align="center" alt="Rafa-ARDUINO" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+       <img align="center" alt="Rafa-Jquery" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   
   ##
   ### Contatos:
