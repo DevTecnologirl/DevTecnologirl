@@ -13,6 +13,14 @@
       <img align="center" alt="Rafa-ARDUINO" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
        <img align="center" alt="Rafa-Jquery" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
           <img align="center" alt="Rafa-Jquery" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+
+<div>
+<a href="https://github.com/DevTecnologirl">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTecnologirl&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTecnologirl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
   
   ##
   ### Contatos:
