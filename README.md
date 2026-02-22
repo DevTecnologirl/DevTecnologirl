@@ -15,9 +15,10 @@
   <a href="https://www.instagram.com/tecnologirl/">
     <img src="https://img.shields.io/badge/Instagram-Tech%20Lifestyle-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-   <a href="https://portifolio-camilly-duarte.vercel.app/">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Portif%C3%B3lio">
-  </a>
+<a href="https://portifolio-camilly-duarte.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-%40tecnologirl-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
  
 </p>
 
