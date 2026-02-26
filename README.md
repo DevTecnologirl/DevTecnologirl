@@ -1,4 +1,4 @@
-<h1 align="center">✨ Camilly Duarte</h1>
+<h1 align="center">✨ Tecnologirl</h1>
 <h3 align="center">Full Stack Developer • Tech Creator • DevTecnologirl</h3>
 
 <p align="center">
